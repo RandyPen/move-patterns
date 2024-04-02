@@ -24,7 +24,7 @@ This book is designed to be viewed digitally with hyperlink support (such as PDF
 
 [![CC BY 4.0 license button][cc-by-png]][cc-by]
 
-Move Patterns: Design Patterns for Resource Based Programming © 2022 by [Ville Sundell](https://github.com/villesundell) is licensed under CC BY 4.0. To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
+Move Patterns: Design Patterns for Resource Based Programming © 2022 by [Ville Sundell](https://github.com/villesundell) and [others](https://github.com/villesundell/move-patterns/graphs/contributors) is licensed under CC BY 4.0. To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
 
 [cc-by-png]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg "CC BY 4.0 license button"
 [cc-by]: https://creativecommons.org/licenses/by/4.0/ "Creative Commons Attribution 4.0 International License"
